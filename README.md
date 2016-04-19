@@ -1,3 +1,7 @@
+<img src="http://img.jcabi.com/logo-square.svg" width="64px" height="64px" />
+
+[![Build status](https://ci.appveyor.com/api/projects/status/mb3dy668vaixomwx/branch/master?svg=true)](https://ci.appveyor.com/project/spg7484/hello-java/branch/master)
+
 Hello Java Sample
 =================
 
